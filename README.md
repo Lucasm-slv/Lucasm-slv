@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucasm-slv
 - 👀 I am interested in games, anime, programming, cooking, movies and series. Okay, I'm a geek / nerd! 😅
-- 🌱 I am currently learning front-end and ux 😊
+- 🌱 I am currently learning front-end, ux and python 😊
 - 💞️ I am looking to collaborate on open source projects 😉
 - 📫 How to find me? Email: lucas.manoel.slv@gmail.com or LinkedIn: linkedin.com/in/lucasmanoelsilva/
 
